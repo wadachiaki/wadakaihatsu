@@ -1,0 +1,38 @@
+{
+  "name": "lab-oishiiclub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.71",
+    "form-data": "^4.0.3",
+    "framer-motion": "^12.16.0",
+    "html-to-image": "^1.11.13",
+    "lodash.debounce": "^4.0.8",
+    "next": "15.3.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss-filters": "^3.0.0",
+    "undici": "^7.10.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/lodash.debounce": "^4.0.9",
+    "@types/node": "^24.0.1",
+    "@types/react": "19.1.8",
+    "eslint": "^9.28.0",
+    "eslint-config-next": "15.3.3",
+    "eslint-plugin-react": "^7.37.5",
+    "node-loader": "^2.1.0",
+    "tailwindcss": "^4"
+  },
+  "optionalDependencies": {
+    "@napi-rs/canvas-linux-x64-gnu": "^0.1.71"
+  }
+}
