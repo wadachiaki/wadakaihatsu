@@ -5,7 +5,7 @@ export default function Home() {
     <div >
       <section className="flex flex-col gap-2">
       {/* トップイラストとタイトル */}
-        <h1>OISHII CLUBとは</h1>
+        <h1>wadakaihatsuとは</h1>
                 <p style={{ whiteSpace: 'pre-wrap' }}>
                     {`私たちの考える「おいしい」は、特別なものではありません。
 たとえば、
@@ -23,17 +23,17 @@ export default function Home() {
 現代の忙しさの中では、「小さな幸せ」や「心地よさ」が後回しになりがちです。
 私たちは、そんな慌ただしい日々のなかでも
 ちょっと立ち止まって「おいしい」を感じられるひとときを届けたいと考えています。
-その想いこそが、oishiiclub の原動力です。
+その想いこそが、wadakaihatsu の原動力です。
 `}
                 </p>
 
-                <h1>OISHII CLUBの活動</h1>
+                <h1>wadakaihatsuの活動</h1>
                 <p style={{ whiteSpace: 'pre-wrap' }}>
                     {`執筆中・・・`}</p>
 
-                <h1>OISHII CLUBのよてい</h1>
+                <h1>wadakaihatsuのよてい</h1>
                 <p style={{ whiteSpace: 'pre-wrap' }}>
-                    {`これから oishiiclub ブランドサイトでは、
+                    {`これから wadakaihatsu ブランドサイトでは、
 ・これまで手がけてきたアプリやキャラクターの紹介
 ・それぞれのプロジェクトに込めた“おいしさ”のストーリー
 ・今後の展開予定や取り組み

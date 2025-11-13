@@ -3,8 +3,8 @@ import "../../styles/globals.css";
 import { Geist, Geist_Mono } from "next/font/google";
 
 export const metadata = {
-  title: "OISHII CLUB LAB",
-  description: "OISHII CLUBのつくってあそぶ研究室",
+  title: "wadakaihatsu LAB",
+  description: "wadakaihatsuのつくってあそぶ研究室",
 };
 
 const geistSans = Geist({

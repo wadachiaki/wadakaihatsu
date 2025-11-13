@@ -31,12 +31,12 @@ export default function Sidebar({ isOpen, onClose }) {
 
         <nav className="flex flex-col gap-1 px-4 font-body m-2">
           <Link href="/" className="uppercase font-bold text-s mt-6 mb-2">
-            OISHII CLUB
+            wadakaihatsu
           </Link>
 
           <div className="flex flex-col">
             <Link href="/lab" className="uppercase font-bold text-s mt-6 mb-2">
-            OISHII CLUB LAB
+            wadakaihatsu LAB
           </Link>
             <Link
               href="/lab/tools/myakugaki"

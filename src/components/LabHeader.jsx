@@ -34,7 +34,7 @@ export default function HeaderWithState({ onOpenMenu }) {
           </button>
         <div id="mainTitle">
           <a href="/" className="mainTitleLink">
-            OISHII CLUB LAB
+            wadakaihatsu LAB
           </a>
         </div>
       </div>
